@@ -4,7 +4,7 @@ Various tools and helper scripts for working with Who's On First data. These are
 
 ## scripts
 
-## download-meta
+## download-meta.py
 
 Download all the files listed in one or more `meta` files (from [whosonfirst-data](https://github.com/whosonfirst/whosonfirst-data)) and store them locally. For example:
 
